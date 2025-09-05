@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Search every cruise port
     description                           : Comprehensive cruise port information with maps, highlights, and insider tips.
-    fontawesome_icon_name                 : "magnifying-glass-location"
+    fontawesome_icon_name                 : "magnifying-glass"
     
   - title                                 : Cruise port transport made simple
     description                           : Find shuttles, taxis, buses, trains, and local transport options at your port of call.
@@ -52,31 +52,31 @@ features                                  :
 
   - title                                 : Food & drink near the pier
     description                           : Get restaurant and café recommendations in walking distance of your cruise port.
-    fontawesome_icon_name                 : fa-utensils
+    fontawesome_icon_name                 : "utensils"
 
   - title                                 : Cruise essentials
     description                           : Banks, ATMs, pharmacies, police stations and more—cruise port essentials at your fingertips.
-    fontawesome_icon_name                 : fa-briefcase-medical
+    fontawesome_icon_name                 : "briefcase-medical"
   
   - title                                 : Plan your cruise itinerary
     description                           : Add your sailing and access port guides directly from your cruise schedule.
-    fontawesome_icon_name                 : fa-calendar-check
+    fontawesome_icon_name                 : "calendar-check"
 
   - title                                 : Favourites for easy access
     description                           : Bookmark places in your cruise port and save them for quick access on arrival.
-    fontawesome_icon_name                 : fa-heart
+    fontawesome_icon_name                 : "heart"
 
   - title                                 : Live port weather
     description                           : Real-time cruise port weather conditions and forecasts to plan your shore days.
-    fontawesome_icon_name                 : fa-cloud-sun
+    fontawesome_icon_name                 : "cloud-sun"
 
   - title                                 : Video Cruise Port Guides
     description                           : Watch YouTube cruise vloggers showcase each port—real tips, must-see sights, and what to expect when you dock.
-    fontawesome_icon_name                 : fa-youtube
+    fontawesome_icon_name                 : "youtube"
 
   - title                                 : Premium offline cruise port guides
     description                           : Download full cruise port guides for offline use—avoid ship Wi-Fi and roaming costs.
-    fontawesome_icon_name                 : fa-download
+    fontawesome_icon_name                 : "download"
 
 
 
