@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Search every cruise port
     description                           : Comprehensive cruise port information with maps, highlights, and insider tips.
-    fontawesome_icon_name                 : "magnifying-glass"
+    fontawesome_icon_name                 : "search"
     
   - title                                 : Cruise port transport made simple
     description                           : Find shuttles, taxis, buses, trains, and local transport options at your port of call.
