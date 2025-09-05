@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Search every cruise port
     description                           : Comprehensive cruise port information with maps, highlights, and insider tips.
-    fontawesome_icon_name                 : "magnifying-glass"
+    fontawesome_icon_name                 : "magnifying-glass-location"
     
   - title                                 : Cruise port transport made simple
     description                           : Find shuttles, taxis, buses, trains, and local transport options at your port of call.
@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Top things to do in port
     description                           : Discover excursions, sightseeing highlights, and nearby attractions at each cruise stop.
-    fontawesome_icon_name                 : "map-location-dot"
+    fontawesome_icon_name                 : "umbrella-beach"
 
   - title                                 : Food & drink near the pier
     description                           : Get restaurant and café recommendations in walking distance of your cruise port.
@@ -72,7 +72,7 @@ features                                  :
 
   - title                                 : Video Cruise Port Guides
     description                           : Watch YouTube cruise vloggers showcase each port—real tips, must-see sights, and what to expect when you dock.
-    fontawesome_icon_name                 : "youtube"
+    fontawesome_icon_name                 : "video"
 
   - title                                 : Premium offline cruise port guides
     description                           : Download full cruise port guides for offline use—avoid ship Wi-Fi and roaming costs.
