@@ -10,7 +10,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [0.9.0] – 2025-09-05
+## [0.9.0] Build 17 – 2025-09-05
 ### Beta Release – Invited Testers
 - First public beta release of CruisePortIQ.
 - Core features included:
