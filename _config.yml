@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : CruisePortIQ - Cruise Port Guide App for Things to Do, Transport & Offline Maps                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,10 +10,10 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CruisePortIQ                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : "Free • Optional Premium Annual Pass $4.99 per year with One Week Free Trial"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : CruisePortIQ Cruise planner app with port guides, excursions, itineraries, and offline access. Smarter travel at over 1,200 cruise ports worldwide.
+app_price                                 : "Free • Optional Premium Annual Pass $4.99/yr"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : CruisePortIQ is the smart cruise port guide app for travelers. Instantly discover things to do, transport, food & drink, and essential services in every cruise port. Save offline guides with Premium and avoid costly ship Wi-Fi.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,75 +38,75 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Search any cruise port
-    description                           : Reliable, structured port guides with maps, tips, and local know-how.
-    fontawesome_icon_name                 : fa-solid fa-magnifying-glass
+  - title                                 : Search every cruise port
+    description                           : Comprehensive cruise port information with maps, highlights, and insider tips.
+    fontawesome_icon_name                 : fa-magnifying-glass
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Cruise port transport made simple
+    description                           : Find shuttles, taxis, buses, trains, and local transport options at your port of call.
+    fontawesome_icon_name                 : fa-bus
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Top things to do in port
+    description                           : Discover excursions, sightseeing highlights, and nearby attractions at each cruise stop.
+    fontawesome_icon_name                 : fa-map-location-dot
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Food & drink near the pier
+    description                           : Get restaurant and café recommendations in walking distance of your cruise port.
+    fontawesome_icon_name                 : fa-utensils
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Cruise essentials
+    description                           : Banks, ATMs, pharmacies, police stations and more—cruise port essentials at your fingertips.
+    fontawesome_icon_name                 : fa-briefcase-medical
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Plan your cruise itinerary
+    description                           : Add your sailing and access port guides directly from your cruise schedule.
+    fontawesome_icon_name                 : fa-calendar-check
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Favourites for easy access
+    description                           : Bookmark places in your cruise port and save them for quick access on arrival.
+    fontawesome_icon_name                 : fa-heart
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Live port weather
+    description                           : Real-time cruise port weather conditions and forecasts to plan your shore days.
+    fontawesome_icon_name                 : fa-cloud-sun
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Video Cruise Port Guides
+    description                           : Watch YouTube cruise vloggers showcase each port—real tips, must-see sights, and what to expect when you dock.
+    fontawesome_icon_name                 : fa-youtube
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Premium offline cruise port guides
+    description                           : Download full cruise port guides for offline use—avoid ship Wi-Fi and roaming costs.
+    fontawesome_icon_name                 : fa-download
 
 
 
 # Theme Settings
-topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_color                              : "#03134F"
+topbar_transparency                       : 0.95
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_color                       : "#03134F"
+cover_overlay_transparency                : 0.55
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#008AE0"
 
 app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
+app_price_color                           : "#FED05D"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#03134F"
+feature_text_color                        : "#444444"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#008AE0"
+feature_icons_background_color            : "#EBEBEB"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#03134F"
+social_icons_background_color             : "#E6E6E6"
 
 footer_text_color                         : "#666666"
 
