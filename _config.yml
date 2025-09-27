@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : "calendar-check"
 
   - title                                 : Favourites for easy access
-    description                           : Bookmark places in your cruise port and save them for quick access on arrival. Note: Premium users can save unlimited places - free users are limited to 5
+    description                           : Bookmark places in your cruise port and save them for quick access on arrival. *Premium users can save unlimited places - free users are limited to 5
     fontawesome_icon_name                 : "heart"
 
   - title                                 : Live port weather
