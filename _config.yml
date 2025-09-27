@@ -2,7 +2,7 @@
 page_title                                : CruisePortIQ - Cruise Port Guide App for Things to Do, Transport & Offline Maps                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 899247664                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                             # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : "calendar-check"
 
   - title                                 : Favourites for easy access
-    description                           : Bookmark places in your cruise port and save them for quick access on arrival.
+    description                           : Bookmark places in your cruise port and save them for quick access on arrival. Note: Premium users can save unlimited places - free users are limited to 5
     fontawesome_icon_name                 : "heart"
 
   - title                                 : Live port weather
@@ -75,7 +75,7 @@ features                                  :
     fontawesome_icon_name                 : "video"
 
   - title                                 : Premium offline cruise port guides
-    description                           : Download full cruise port guides for offline use—avoid ship Wi-Fi and roaming costs.
+    description                           : Premium Users can download full cruise port guides for offline use—avoid ship Wi-Fi and roaming costs.
     fontawesome_icon_name                 : "download"
 
 
