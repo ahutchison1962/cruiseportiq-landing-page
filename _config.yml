@@ -143,3 +143,7 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+# Sitemap support 
+plugins:
+  - jekyll-sitemap
