@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7Z38RL67A6.com.cruiseportiq.app",
+        "paths": [
+          "/reset-password",
+          "/reset-password/*",
+          "/auth/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "7Z38RL67A6.com.cruiseportiq.app"
+    ]
+  }
+}
