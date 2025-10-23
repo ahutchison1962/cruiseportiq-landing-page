@@ -147,3 +147,7 @@ markdown: kramdown
 # Sitemap support 
 plugins:
   - jekyll-sitemap
+
+# Tell Jekyll to copy .well-known as static files
+include:
+  - .well-known
