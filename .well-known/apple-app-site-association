@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "7Z38RL67A6.com.cruiseportiq.app",
+        "appID": "7Z38RL67A6.com.cruisenonstop.cruiseportiq",
         "paths": [
           "/reset-password",
           "/reset-password/*",
@@ -14,7 +14,7 @@
   },
   "webcredentials": {
     "apps": [
-      "7Z38RL67A6.com.cruiseportiq.app"
+      "7Z38RL67A6.com.cruisenonstop.cruiseportiq"
     ]
   }
 }
