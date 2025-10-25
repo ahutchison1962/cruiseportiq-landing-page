@@ -82,6 +82,11 @@ features                                  :
     description                           : Add your criuse to the MyCruises page and have direct links to the ports in your itinerary, cruise countdown and share itinerarie with your friends
     fontawesome_icon_name                 : "ship"
 
+  - title                                 : Add Notes & To-Do's
+    description                           : Plan your adventures offshore with personal port notes and to-do's, with offline syncing and offline access - no need for cellular or wifi in port
+    fontawesome_icon_name                 : "sticky-note"
+
+
 
 # Theme Settings
 topbar_color                              : "#03134F"
