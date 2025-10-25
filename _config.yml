@@ -1,5 +1,5 @@
 #page title
-page_title                                : CruisePortIQ - Cruise Port Guide App to Find Out Whats In Port, Things to Do, Transport & More                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : CruisePortIQ Cruise Port Guide App: Find Out Whats In Port, Things to Do, & More                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6751407310                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,8 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/cruiseportiq-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CruisePortIQ - Cruise Planner                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : CruisePortIQ is the smart cruise port guide app for travelers. Instantly discover whats in port, things to do, transport, food & drink, and essential services in every cruise port. Save offline guides and avoid costly ship Wi-Fi.
-
+app_description                           : CruisePortIQ - the smart cruise port guide app for cruise travel. Discover what’s in port, things to do, food & drink, and more in every cruise port. Save guides offline avoiding cellular fees
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -81,6 +80,10 @@ features                                  :
   - title                                 : Track Upcoming Cruises
     description                           : Add your criuse to the MyCruises page and have direct links to the ports in your itinerary, cruise countdown and share itinerarie with your friends
     fontawesome_icon_name                 : "ship"
+
+  - title                                 : Add Notes & To-Do's
+    description                           : Plan your adventures offshore with personal port notes and to-do's, with offline syncing and offline access - no need for cellular or wifi in port
+    fontawesome_icon_name                 : "sticky-note"
 
 
 # Theme Settings
