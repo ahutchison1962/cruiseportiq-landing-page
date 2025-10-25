@@ -1,5 +1,5 @@
 #page title
-page_title                                : CruisePortIQ - Cruise Port Guide App for Things to Do, Transport & Offline Maps                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : CruisePortIQ - Cruise Port Guide App to Find Out Whats In Port, Things to Do, Transport & More                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6751407310                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,8 +12,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/cruiseportiq-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CruisePortIQ - Cruise Planner                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : "Free • Optional Premium Pass $4.99/yr"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : CruisePortIQ is the smart cruise port guide app for travelers. Instantly discover things to do, transport, food & drink, and essential services in every cruise port. Save offline guides and avoid costly ship Wi-Fi.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : CruisePortIQ is the smart cruise port guide app for travelers. Instantly discover whats in port, things to do, transport, food & drink, and essential services in every cruise port. Save offline guides and avoid costly ship Wi-Fi.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,8 +38,8 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Search every cruise port
-    description                           : Comprehensive cruise port information with maps, highlights, and insider tips.
+  - title                                 : Whats In Port
+    description                           : Find out what's in port with comprehensive cruise port information, maps, highlights, and insider tips.
     fontawesome_icon_name                 : "search"
     
   - title                                 : Cruise port transport made simple
@@ -78,6 +78,9 @@ features                                  :
     description                           : Premium Users can download full cruise port guides for offline use—avoid ship Wi-Fi and roaming costs.
     fontawesome_icon_name                 : "download"
 
+  - title                                 : Track Upcoming Cruises
+    description                           : Add your criuse to the MyCruises page and have direct links to the ports in your itinerary, cruise countdown and share itinerarie with your friends
+    fontawesome_icon_name                 : "ship"
 
 
 # Theme Settings
