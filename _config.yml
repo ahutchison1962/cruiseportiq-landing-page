@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/cruiseportiq-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CruisePortIQ - Cruise Port Planner                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : CruisePortIQ is the smart cruise port guide app for travel. Discover whats in port, things to do, transport, food & drink, and essential services in every port. Save offline guides and avoid costly ship Wi-Fi.
+app_description                           : CruisePortIQ is your smart cruise port guide app. Discover whats in port, things to do, food & drink and more, in every port. Save guides offline and avoid costly ship Wi-Fi.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
